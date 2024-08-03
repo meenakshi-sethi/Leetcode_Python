@@ -7,6 +7,6 @@ Easy Questions
 6. Merge two sorted Lists (21) - pending need knowledge of Linked List
 7. Remove Duplicates from Sorted Array (26) - done
 8. Remove Elements (27)
-9. Find the Index of the first Occurrence in a String (28)
+9. Find the Index of the first Occurrence in a String (28) - done
 10. Search Insert Position (35)
 
