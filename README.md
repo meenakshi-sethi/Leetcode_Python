@@ -51,18 +51,19 @@ This repository tracks my progress as I solve LeetCode problems using Python. Th
 
 | Problem | Link | Done | Pythonic |
 |---------|------|------|----------|
-| Two Sum | [Problem #1](https://leetcode.com/problems/two-sum/) | <input type="checkbox" checked disabled> | <input type="checkbox" checked disabled> |
-| Palindrome Number | [Problem #9](https://leetcode.com/problems/palindrome-number/) | <input type="checkbox" checked disabled> | <input type="checkbox" checked disabled> |
-| Roman to Integer | [Problem #13](https://leetcode.com/problems/roman-to-integer/) | <input type="checkbox" checked disabled> | <input type="checkbox" checked disabled> |
-| Longest Common Prefix | [Problem #14](https://leetcode.com/problems/longest-common-prefix/) | <input type="checkbox" checked disabled> | <input type="checkbox" checked disabled> |
-| Valid Parentheses | [Problem #20](https://leetcode.com/problems/valid-parentheses/) | <input type="checkbox" checked disabled> | <input type="checkbox" checked disabled> |
-| Merge Two Sorted Lists | [Problem #21](https://leetcode.com/problems/merge-two-sorted-lists/) | <input type="checkbox"> | <input type="checkbox"> |
-| Remove Duplicates from Sorted Array | [Problem #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | <input type="checkbox" checked disabled> | <input type="checkbox" checked disabled> |
-| Remove Element | [Problem #27](https://leetcode.com/problems/remove-element/) | <input type="checkbox"> | <input type="checkbox"> |
-| Find the Index of the First Occurrence in a String | [Problem #28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | <input type="checkbox" checked disabled> | <input type="checkbox" checked disabled> |
-| Search Insert Position | [Problem #35](https://leetcode.com/problems/search-insert-position/) | <input type="checkbox" checked disabled> | <input type="checkbox" checked disabled> |
+| Two Sum | [Problem #1](https://leetcode.com/problems/two-sum/) | [ ] | [ ] |
+| Palindrome Number | [Problem #9](https://leetcode.com/problems/palindrome-number/) | [ ] | [ ] |
+| Roman to Integer | [Problem #13](https://leetcode.com/problems/roman-to-integer/) | [ ] | [ ] |
+| Longest Common Prefix | [Problem #14](https://leetcode.com/problems/longest-common-prefix/) | [ ] | [ ] |
+| Valid Parentheses | [Problem #20](https://leetcode.com/problems/valid-parentheses/) | [ ] | [ ] |
+| Merge Two Sorted Lists | [Problem #21](https://leetcode.com/problems/merge-two-sorted-lists/) | [ ] | [ ] |
+| Remove Duplicates from Sorted Array | [Problem #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [ ] | [ ] |
+| Remove Element | [Problem #27](https://leetcode.com/problems/remove-element/) | [ ] | [ ] |
+| Find the Index of the First Occurrence in a String | [Problem #28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [ ] | [ ] |
+| Search Insert Position | [Problem #35](https://leetcode.com/problems/search-insert-position/) | [ ] | [ ] |
 
 </details>
+
 
 
 <details>
