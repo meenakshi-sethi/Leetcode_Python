@@ -49,20 +49,21 @@ This repository tracks my progress as I solve LeetCode problems using Python. Th
 <details>
 <summary><strong>Easy Problems</strong></summary>
 
-| Problem | Link | Done | Pythonic |
-|---------|------|------|----------|
-| Two Sum | [Problem #1](https://leetcode.com/problems/two-sum/) | Yes |  |
-| Palindrome Number | [Problem #9](https://leetcode.com/problems/palindrome-number/) | Yes |  |
-| Roman to Integer | [Problem #13](https://leetcode.com/problems/roman-to-integer/) | Yes |  |
-| Longest Common Prefix | [Problem #14](https://leetcode.com/problems/longest-common-prefix/) | Yes |  |
-| Valid Parentheses | [Problem #20](https://leetcode.com/problems/valid-parentheses/) | Yes |  |
-| Merge Two Sorted Lists | [Problem #21](https://leetcode.com/problems/merge-two-sorted-lists/) |  |  |
-| Remove Duplicates from Sorted Array | [Problem #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Yes |  |
-| Remove Element | [Problem #27](https://leetcode.com/problems/remove-element/) |  |  |
-| Find the Index of the First Occurrence in a String | [Problem #28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Yes |  |
-| Search Insert Position | [Problem #35](https://leetcode.com/problems/search-insert-position/) | Yes | |
+| Problem | Link | Done | Pythonic | Solution |
+|---------|------|------|----------|----------|
+| Two Sum | [Problem #1](https://leetcode.com/problems/two-sum/) | Yes |  | [Solution](./Solutions/Easy/two_sum.py) |
+| Palindrome Number | [Problem #9](https://leetcode.com/problems/palindrome-number/) | Yes |  | [Solution](./Solutions/Easy/palindrome_number.py) |
+| Roman to Integer | [Problem #13](https://leetcode.com/problems/roman-to-integer/) | Yes |  | [Solution](./Solutions/Easy/roman_to_integer.py) |
+| Longest Common Prefix | [Problem #14](https://leetcode.com/problems/longest-common-prefix/) | Yes |  | [Solution](./Solutions/Easy/longest_common_prefix.py) |
+| Valid Parentheses | [Problem #20](https://leetcode.com/problems/valid-parentheses/) | Yes |  | [Solution](./Solutions/Easy/valid_parentheses.py) |
+| Merge Two Sorted Lists | [Problem #21](https://leetcode.com/problems/merge-two-sorted-lists/) |  |  | Solution pending |
+| Remove Duplicates from Sorted Array | [Problem #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Yes |  | [Solution](./Solutions/Easy/remove_duplicates_sorted_array.py) |
+| Remove Element | [Problem #27](https://leetcode.com/problems/remove-element/) |  |  | Solution pending |
+| Find the Index of the First Occurrence in a String | [Problem #28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Yes |  | [Solution](./Solutions/Easy/find_index_first_occurrence_string.py) |
+| Search Insert Position | [Problem #35](https://leetcode.com/problems/search-insert-position/) | Yes |  | [Solution](./Solutions/Easy/search_insert_position.py) |
 
 </details>
+
 
 
 <details>
