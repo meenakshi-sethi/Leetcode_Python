@@ -49,18 +49,48 @@ This repository tracks my progress as I solve LeetCode problems using Python. Th
 <details>
 <summary><strong>Easy Problems</strong></summary>
 
-- [x] **Two Sum** [(Problem #1)](https://leetcode.com/problems/two-sum/) - Done
-- [x] **Palindrome Number** [(Problem #9)](https://leetcode.com/problems/palindrome-number/) - Done
-- [x] **Roman to Integer** [(Problem #13)](https://leetcode.com/problems/roman-to-integer/) - Done
-- [x] **Longest Common Prefix** [(Problem #14)](https://leetcode.com/problems/longest-common-prefix/) - Done
-- [x] **Valid Parentheses** [(Problem #20)](https://leetcode.com/problems/valid-parentheses/) - Done
-- [ ] **Merge Two Sorted Lists** [(Problem #21)](https://leetcode.com/problems/merge-two-sorted-lists/) - **Pending** (Need Linked List knowledge)
-- [x] **Remove Duplicates from Sorted Array** [(Problem #26)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - Done
-- [ ] **Remove Element** [(Problem #27)](https://leetcode.com/problems/remove-element/) - **Pending**
-- [x] **Find the Index of the First Occurrence in a String** [(Problem #28)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) - Done
-- [x] **Search Insert Position** [(Problem #35)](https://leetcode.com/problems/search-insert-position/) - Done
+- **Two Sum** [(Problem #1)](https://leetcode.com/problems/two-sum/)
+  - [x] Done
+  - [x] Pythonic
+
+- **Palindrome Number** [(Problem #9)](https://leetcode.com/problems/palindrome-number/)
+  - [x] Done
+  - [x] Pythonic
+
+- **Roman to Integer** [(Problem #13)](https://leetcode.com/problems/roman-to-integer/)
+  - [x] Done
+  - [x] Pythonic
+
+- **Longest Common Prefix** [(Problem #14)](https://leetcode.com/problems/longest-common-prefix/)
+  - [x] Done
+  - [x] Pythonic
+
+- **Valid Parentheses** [(Problem #20)](https://leetcode.com/problems/valid-parentheses/)
+  - [x] Done
+  - [x] Pythonic
+
+- **Merge Two Sorted Lists** [(Problem #21)](https://leetcode.com/problems/merge-two-sorted-lists/)
+  - [ ] Done
+  - [ ] Pythonic
+
+- **Remove Duplicates from Sorted Array** [(Problem #26)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+  - [x] Done
+  - [x] Pythonic
+
+- **Remove Element** [(Problem #27)](https://leetcode.com/problems/remove-element/)
+  - [ ] Done
+  - [ ] Pythonic
+
+- **Find the Index of the First Occurrence in a String** [(Problem #28)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+  - [x] Done
+  - [x] Pythonic
+
+- **Search Insert Position** [(Problem #35)](https://leetcode.com/problems/search-insert-position/)
+  - [x] Done
+  - [x] Pythonic
 
 </details>
+
 
 <details>
 <summary><strong>Medium Problems</strong></summary>
