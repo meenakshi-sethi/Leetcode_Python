@@ -29,7 +29,7 @@ This repository tracks my progress as I solve LeetCode problems using Python. Th
 - Lists, Tuples, Sets, Dictionaries, Modules, Strings
 - File Handling, Exception Handling, Intro to OOP
 
-**Stage 2: Intro to DSA with Python **
+**Stage 2: Intro to DSA with Python**
 - Arrays, Linked Lists, Stacks, Queues, Trees
 - Python Libraries (NumPy, Pandas), Advanced OOP
 - LeetCode Practice: Arrays, Linked Lists, Stacks, Queues, Trees
