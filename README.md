@@ -24,17 +24,17 @@ This repository tracks my progress as I solve LeetCode problems using Python. Th
 
 ## Roadmap
 
-**Stage 1: Python Basics (August 5 - August 9)**
+**Stage 1: Python Basics**
 - Variables, Syntax, Loops, Conditionals, Functions, Recursion
 - Lists, Tuples, Sets, Dictionaries, Modules, Strings
 - File Handling, Exception Handling, Intro to OOP
 
-**Stage 2: Intro to DSA with Python (August 10 - August 14)**
+**Stage 2: Intro to DSA with Python **
 - Arrays, Linked Lists, Stacks, Queues, Trees
 - Python Libraries (NumPy, Pandas), Advanced OOP
 - LeetCode Practice: Arrays, Linked Lists, Stacks, Queues, Trees
 
-**Stage 3: Python Practice and DSA Review (August 15 - August 20)**
+**Stage 3: Python Practice and DSA Review**
 - HashMaps, Graphs, Sorting Algorithms
 - Python Optimization, Advanced Topics Review
 - LeetCode Practice: HashMaps, Graphs, Sorting
