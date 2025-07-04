@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/valid-palindrome/description/
 # preprocess + reverse-compare solution
 
 def isPalindrome(s):
