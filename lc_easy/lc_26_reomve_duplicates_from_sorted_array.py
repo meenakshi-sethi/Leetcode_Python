@@ -1,4 +1,4 @@
-# https://github.com/xizhang20181005/Leetcode_company_frequency
+# https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 
 # Approach 1: Two Pointer Approach
 """
