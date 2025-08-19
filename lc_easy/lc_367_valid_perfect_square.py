@@ -45,8 +45,22 @@ i=4 --> 4*4 = 16 > 15 Output False
 Time Complexity = O(log n)
 Space Complexity = O(1)
 
-
+=============================================================================================
 What is binary search: 
+Its a searching algorithm used to find an element in a sorted array/list by repeatedly dividing the seach range in half.
+Instead of checking each element one by one (like linear search), BS eliminates half of the possibilites at every step.
+
+How does it work?
+1. Start with two pointer 
+    - left = 0 (start of array)
+    - right = n-1 (end of array)
+2. Find the middle value --> middle = (left + right)//2 (#floor division)
+3. Compare the middle element with target:
+    - if arr[mid] == target --> found, return index
+    - if arr[mid] > target --> search left half (right = mid - 1)
+    - if arr[mid] < target --> search right half (left = mid + 1)
+4. Repeat until left > right
+    - if not found --> target doesn't exist in array
 
 """
 
