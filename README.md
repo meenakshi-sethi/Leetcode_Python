@@ -1,6 +1,8 @@
 # LeetCode Python Solutions                        ![Progress](https://img.shields.io/badge/Problems%20Solved-27-brightgreen)    ![Easy](https://img.shields.io/badge/Easy-27-green)    ![Medium](https://img.shields.io/badge/Medium-0-yellow)    ![Hard](https://img.shields.io/badge/Hard-0-red)
 
-Welcome to my LeetCode Python journey! 🚀 I'm learning Python and tackling various problems on LeetCode to sharpen my problem-solving skills and understanding of data structures and algorithms. This repository is a collection of my solutions, categorized by difficulty, along with a roadmap and references to resources I found helpful.
+Welcome to my LeetCode Python journey! 🚀 
+
+I'm learning Python and tackling various problems on LeetCode to sharpen my problem-solving skills and understanding of data structures and algorithms. This repository is a collection of my solutions, categorized by difficulty, along with a roadmap and references to resources I found helpful.
 
 ---
 
@@ -20,7 +22,9 @@ Welcome to my LeetCode Python journey! 🚀 I'm learning Python and tackling var
 This repository tracks my progress as I solve LeetCode problems using Python. The problems are categorized by difficulty (Easy, Medium, Hard). Each category is organized in a collapsible dropdown to keep the README neat and clutter-free.
 
 ---
+
 **Practice Regularly**: Consistency is key!  
+
 ---
 
 ## Problem Solving
