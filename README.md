@@ -25,6 +25,7 @@ This repository tracks my progress as I solve LeetCode problems using Python. Th
 
 ## Problem Solving
 
+<h3 id="easy">Easy</h3>
 <details>
 <summary><strong>Easy Problems</strong></summary>
 
@@ -61,6 +62,7 @@ This repository tracks my progress as I solve LeetCode problems using Python. Th
 </details>
 
 
+<h3 id="medium">Medium</h3>
 <details>
 <summary><strong>Medium Problems</strong></summary>
 
@@ -68,6 +70,7 @@ This repository tracks my progress as I solve LeetCode problems using Python. Th
 
 </details>
 
+<h3 id="hard">Hard</h3>
 <details>
 <summary><strong>Hard Problems</strong></summary>
 
