@@ -89,7 +89,7 @@ This repository tracks my progress as I solve LeetCode problems using Python. Th
 Resources I'll be using for my journey:
 
 - **Books**:
-  - "Dive into Python 3"
+  - [Dive into Python 3](https://github.com/meenakshi-sethi/Leetcode_Python/blob/7154c28c27b8e6061ba4f1001e3a6f0de9fc5d09/Dive%20into%20Python%203.pdf)
 
 - **Websites**:
   - [LeetCode](https://leetcode.com/)  
