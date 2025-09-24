@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode Python journey! 🚀 
 
-I'm learning Python and tackling various problems on LeetCode to sharpen my problem-solving skills and understanding of data structures and algorithms. This repository is a collection of my solutions, categorized by difficulty, along with a roadmap and references to resources I found helpful.
+I am learning Python and tackling various problems on LeetCode to sharpen my problem-solving skills and understanding of data structures and algorithms. This repository is a collection of my solutions, categorized by difficulty, along with a roadmap and references to resources I found helpful.
 
 ---
 
