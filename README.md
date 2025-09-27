@@ -23,7 +23,7 @@ This repository tracks my progress as I solve LeetCode problems using Python. Th
 
 ---
 
-**Practice Regularly**: Consistency is key!  
+**Practice Regularly**: Consistency is key!! 
 
 ---
 
