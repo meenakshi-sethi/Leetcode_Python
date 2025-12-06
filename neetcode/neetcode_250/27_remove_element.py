@@ -1,7 +1,7 @@
 # LC_27_remove_elements
 """
-LC Link:
-NC Link:
+LC Link:https://leetcode.com/problems/remove-element/description/
+NC Link:https://neetcode.io/solutions/remove-element
 """
 
 # Understanding problem
